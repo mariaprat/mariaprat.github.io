@@ -1,6 +1,6 @@
 ---
-layout: redirect
-permalink: /resume/
+layout: page
+permalink: /assets/pdf/resume.pdf
 redirect: /assets/pdf/resume.pdf
 title: resume
 nav: true
