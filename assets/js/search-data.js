@@ -24,13 +24,6 @@ ninja.data = [{
             window.location.href = "/resume/";
           },
         },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6D%61%72%69%61_%70%72%61%74_%63%6F%6C%6F%6D%65%72@%62%72%6F%77%6E.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
