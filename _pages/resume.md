@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: redirect
 permalink: /resume/
 redirect: /assets/pdf/resume.pdf
 title: resume

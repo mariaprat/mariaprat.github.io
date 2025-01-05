@@ -6,7 +6,12 @@
 
 p,
 h1,
-h2,
+h2 {
+  span {
+    color: var(--global-theme-color);
+  }
+}
+
 h3,
 h4,
 h5,
@@ -715,10 +720,6 @@ footer.sticky-bottom {
 
   h2 {
     margin-bottom: 1rem;
-
-    span {
-      color: var(--global-theme-color);
-    }
   }
 
   h2.bibliography {
