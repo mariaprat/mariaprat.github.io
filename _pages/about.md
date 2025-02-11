@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: maria_prat_colomer [at] brown [dot] edu
+subtitle: maria_prat_colomer [guess] brown [dot] edu
 
 profile:
   align: right
